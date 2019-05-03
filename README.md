@@ -1,2 +1,2 @@
 # grammar
-Notes of English Grammar
+English Grammar notes
